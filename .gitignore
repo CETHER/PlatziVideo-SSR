@@ -74,3 +74,6 @@ yarn-error.log
 
 # Build
 dist/
+
+#Los assets no se suben a servidor
+src/server/public
